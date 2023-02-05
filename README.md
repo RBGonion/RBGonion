@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- 
-## Experienced Skill
+## Tech
 
 #### FrontEnd   
 <img src="https://img.shields.io/badge/HTML-2C3454?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/JavaScript-2C3454?style=flat&logo=JavaScript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/TypeScript-2C3454?style=flat&logo=TypeScript&logoColor=3178C6"/>   
